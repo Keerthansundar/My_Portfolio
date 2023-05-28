@@ -359,3 +359,31 @@ form{
     cursor: pointer;
     box-shadow:0 0 20px rgb(0, 147, 158);
 }
+.visit_1{
+    position: relative;
+    top: 500px;
+    left: 430px;
+    width: 110px;
+}
+.visit_2{
+    position: relative;
+    top: 500px;
+    left: 625px;
+    width: 110px;
+}
+.visit_3{
+    position: relative;
+    top: 500px;
+    left: 850px;
+    /*font-size:10px;*/
+    width: 110px;
+}
+.visit_1:hover{
+    transform: scale(0.9);
+}
+.visit_2:hover{
+    transform: scale(0.9);
+}
+.visit_3:hover{
+    transform: scale(0.9);
+}
